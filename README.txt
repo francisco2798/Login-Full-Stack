@@ -12,7 +12,7 @@ Este proyecto implementa un sistema de autenticación completo con frontend y ba
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/francisco2798/Login-Full-Stack
 cd tu-repositorio
 
 
